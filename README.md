@@ -9,7 +9,8 @@ Course content is available at: [course website](https://skaliy.no/DAT158-ML-21/
 
 ### Course notebooks
 The course is based on Jupyter Notebook, a web-based framework to write and present code-based projects.
-Throughout the course you will work with notebooks containing various material and coding exercises, written by [Alexander Selvikvåg Lundervold] (https://alexander.lundervold.com/). _It is recommended to make copies of the course notebooks before editing_. You can follow the naming convention `my_[name_of_original_notebook].ipynb`.
+Throughout the course you will work with notebooks containing various material and coding exercises, written by [Alexander Selvikvåg Lundervold(https://alexander.lundervold.com/).
+It is recommended to make copies of the course notebooks before editing_. You can follow the naming convention `my_[name_of_original_notebook].ipynb`.
 
 To browse through the notebooks **interactively**, without having to install any software, you can use our Binder:
 
