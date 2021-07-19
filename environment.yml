@@ -16,7 +16,7 @@ dependencies:
 - numpy
 - matplotlib
 - pandas
-- scikit-learn >= 0.20
+- scikit-learn-intelex
 - scipy
 - seaborn
 - conda-forge::category_encoders
