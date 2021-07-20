@@ -13,4 +13,4 @@ Throughout the course you will work with notebooks containing various material a
 
 To browse through the notebooks **interactively**, without having to install any software, you can use our Binder:
 
-[![Binder](TODO)<br>
+[![Binder](https://gesis.mybinder.org/binder/v2/gh/skaliy/dat158-ml-course21/deaf9efc22d31f3ffbef69fb76f68137b2753539)<br>
