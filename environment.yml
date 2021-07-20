@@ -1,6 +1,6 @@
 name: dat158
 dependencies:
-- python >= 3.9.0
+- python >= 3.8.0
 - pip
 - pytest
 - flask
