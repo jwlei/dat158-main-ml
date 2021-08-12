@@ -30,6 +30,6 @@ dependencies:
   - eli5
   - pdpbox
   - nbdime
-  - pycaret
+ # - pycaret
   - gunicorn
   
