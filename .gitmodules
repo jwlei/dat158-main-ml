@@ -1,0 +1,3 @@
+[submodule "dat158-pycaret-deployment"]
+	path = dat158-pycaret-deployment
+	url = https://github.com/skaliy/dat158-pycaret-deployment.git
