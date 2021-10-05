@@ -1,3 +1,0 @@
-Age,Sex,ChestPainType,RestingBP,Cholesterol,is_FastingBS,RestingECG,MaxHR,is_ExerciseAngina,Oldpeak,ST_Slope,Label,Score
-34,M,ASY,60,200,True,Normal,140,False,1.0,Flat,1,0.7659
-31,M,ASY,60,200,True,Normal,140,False,1.0,Flat,1,0.7716
